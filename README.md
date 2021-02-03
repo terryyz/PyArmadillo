@@ -17,6 +17,11 @@ and use syntax that considerably differs from Matlab.
 
 This library is co-led by [Jason Rumengan](https://www.jasonrumengan.my.id), me and [Conrad Sanderson](https://conradsanderson.id.au).
 
+* Why do we choose Gitlab as our codebase?
+  * We choose GitLab, as Microsoft has acquired GitHub.
+  * Microsoft is a nefarious entity with a long and consistent history of [unconscionable & unethical behaviour](https://jacquesmattheij.com/what-is-wrong-with-microsoft-buying-github).
+  * **_I still consider Github as a lovely community and hence will update the code package here when the new version comes_ :D**
+
 * **Main site:**  
 [**pyarma.sourceforge.io**](https://pyarma.sourceforge.io)  
 
