@@ -15,7 +15,7 @@ data types that are not immediately intuitive, have a structure that complicates
 and use syntax that considerably differs from Matlab.
 
 
-This library is co-led by [Jason Rumengan](https://www.jasonrumengan.my.id/), me and [Conrad Sanderson](https://github.com/conradsnicta).
+This library is co-led by [Jason Rumengan](https://www.jasonrumengan.my.id), me and [Conrad Sanderson](https://conradsanderson.id.au).
 
 * **Main site:**  
 [**pyarma.sourceforge.io**](https://pyarma.sourceforge.io)  
