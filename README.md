@@ -1,27 +1,34 @@
 # PyArmadillo
 **PyArmadillo: an alternative approach to linear algebra in Python**
+**This library is co-led by [Jason Rumengan](https://www.jasonrumengan.my.id), me and [Conrad Sanderson](https://conradsanderson.id.au).**
 
-PyArmadillo is a linear algebra library for the Python language, with an emphasis on ease of use. It aims to
-provide a high-level syntax and functionality deliberately similar to Matlab/Octave, allowing mathematical
-operations to be expressed in a familiar and natural manner. PyArmadillo provides objects for matrices and
-cubes, as well as over 200 associated functions for manipulating data stored in the objects. All functions are
-accessible in one flat structure. Integer, floating point and complex numbers are supported. Various matrix
-factorisations are provided through integration with LAPACK, or one of its high performance drop-in
-replacements such as Intel MKL or OpenBLAS.
+## Installation
+* Currently, PyArmadillo only supports `pip`. But we will support `conda` in the next step.
+* The installation process is much easier as a precompiled version of PyArmadillo is available via the Python Package Index (PyPI).
+* Use the following command for installation:  
+`pip3 install --user pyarma`  
+ or  
+`pip3 install pyarma`  
+* If pip3 cannot be found, try using the following alternatives:
 
-While frameworks such as NumPy and SciPy are available for Python, they tend to be unnecessarily
-verbose and cumbersome to use from a linear algebra point of view. These frameworks require users to handle
-data types that are not immediately intuitive, have a structure that complicates the use of common functions,
-and use syntax that considerably differs from Matlab.
+ * `python3 -m pip`
+ * `py -m pip`
+* To upgrade PyArmadillo via pip:  
+`pip3 install --upgrade --user pyarma`  
+or  
+`pip3 install --upgrade pyarma`  
+**NOTE**: It's possible that pip may erroneously not find the newest version. In that case, try the following command:  
+`pip3 install --no-cache-dir --upgrade --user pyarma`  
+or  
+`pip3 install --no-cache-dir --upgrade pyarma`  
 
-
-This library is co-led by [Jason Rumengan](https://www.jasonrumengan.my.id), me and [Conrad Sanderson](https://conradsanderson.id.au).
-
+## FAQ
 * Why do we choose Gitlab as our codebase?
   * We choose GitLab, as Microsoft has acquired GitHub.
   * Microsoft is a nefarious entity with a long and consistent history of [unconscionable & unethical behaviour](https://jacquesmattheij.com/what-is-wrong-with-microsoft-buying-github).
   * **_I still consider Github as a lovely community and hence will update the code package here when the new version comes_ :D**
 
+## Links
 * **Main site:**  
 [**pyarma.sourceforge.io**](https://pyarma.sourceforge.io)  
 
