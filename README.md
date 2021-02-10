@@ -1,6 +1,22 @@
 # PyArmadillo
-**PyArmadillo: an alternative approach to linear algebra in Python**
-**This library is co-led by [Jason Rumengan](https://www.jasonrumengan.my.id), me and [Conrad Sanderson](https://conradsanderson.id.au).**
+**PyArmadillo: an alternative approach to linear algebra in Python** 
+<p align="center">
+    <a href="https://gitlab.com/jason-rumengan/pyarma">
+        <img alt="GitLab" src="https://img.shields.io/badge/gitlab-pyarma-orange">
+    </a>
+    <a href="https://gitlab.com/jason-rumengan/pyarma/-/blob/main/LICENSE">
+        <img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-blue">
+    </a>
+    <a href="https://pyarma.sourceforge.io">
+        <img alt="Documentation" src="https://img.shields.io/badge/website-online-brightgreen">
+    </a>
+    <a href="https://pypi.org/project/pyarma">
+        <img alt="PyPI release" src="https://img.shields.io/badge/release-v0.500.0-blue">
+    </a>
+    <a href="https://pyarma.sourceforge.io/pyarmadillo_tech_report_2021.pdf">
+        <img alt="Citation" src="https://img.shields.io/badge/citation-tech_report-brightgreen">
+    </a>
+</p>
 
 ## Installation
 * Currently, PyArmadillo only supports `pip`. But we will support `conda` in the next step.
