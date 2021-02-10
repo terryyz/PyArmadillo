@@ -26,7 +26,7 @@ PyArmadillo
 </h2>
 
 ## Installation
-* Currently, PyArmadillo only supports `pip`. But we will support `conda` in the next step.
+* Currently, PyArmadillo only supports `pip`. But it will support `conda` in the next step.
 * The installation process is much easier as a precompiled version of PyArmadillo is available via the Python Package Index (PyPI).
 * Use the following command for installation:  
 `pip3 install --user pyarma`  
