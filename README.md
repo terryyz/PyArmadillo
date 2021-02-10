@@ -5,6 +5,9 @@ PyArmadillo
     <a href="https://gitlab.com/jason-rumengan/pyarma">
         <img alt="GitLab" src="https://img.shields.io/badge/gitlab-pyarma-orange">
     </a>
+    <a href="https://ci.appveyor.com/project/jason-rumengan/pyarma">
+        <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true">
+    </a>
     <a href="https://gitlab.com/jason-rumengan/pyarma/-/blob/main/LICENSE">
         <img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-blue">
     </a>
