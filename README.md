@@ -21,9 +21,9 @@ PyArmadillo
         <img alt="Citation" src="https://img.shields.io/badge/citation-tech_report-brightgreen">
     </a>
 </p>
-<h2 align="center">
+<h3 align="center">
 <p>An alternative approach to linear algebra in Python
-</h2>
+</h3>
 
 ## Quick Installation
 * Currently, PyArmadillo only supports `pip`. But it will support `conda` in the next step.
