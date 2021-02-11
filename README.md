@@ -32,7 +32,7 @@ PyArmadillo
 `pip3 install --user pyarma`  
  or  
 `pip3 install pyarma`  
-* If pip3 cannot be found, try using the following alternatives:
+* If `pip3` cannot be found, try using the following alternatives:
 
  * `python3 -m pip`
  * `py -m pip`
@@ -40,7 +40,7 @@ PyArmadillo
 `pip3 install --upgrade --user pyarma`  
 or  
 `pip3 install --upgrade pyarma`  
-**NOTE**: It's possible that pip may erroneously not find the newest version. In that case, try the following command:  
+**NOTE**: It's possible that `pip` may erroneously not find the newest version. In that case, try the following command:  
 `pip3 install --no-cache-dir --upgrade --user pyarma`  
 or  
 `pip3 install --no-cache-dir --upgrade pyarma`  
